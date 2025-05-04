@@ -1,0 +1,101 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata caches
+*.nbconvert.ipynb
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs and debug
+*.log
+*.pot
+*.mo
+
+# Environments
+.envrc
+*.env
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.db
+*.sqlite3
+*.parquet
+*.feather
+
+# Notebook execution cache
+.ipynb_checkpoints/
+*.nbconvert/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python REPL history
+.python_history
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+.pyrightcache/
+
+# Coverage tool
+coverage/
+
+# Jupyter Notebook hidden output cells
+**/.ipynb_checkpoints
+
+# Ignore local notebooks output
+**/*.nbconvert.ipynb
