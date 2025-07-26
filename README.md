@@ -1,4 +1,4 @@
-# LeONet: A Hybrid Deep Learning Approach for Code Clone Detection Using Abstract Syntax Tree Features
+# LeONet: A Hybrid Deep Learning Approach for Code Clone Detection
 
 LeONet is a hybrid Deep Learning approach designed to enhance the detection of code clones in software systems.
 
@@ -29,6 +29,9 @@ The software environment included Python 3.9.18, TensorFlow 2.10.0, Keras 2.10.0
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or suggestions.
+
+## Publications
+[1]	T. Vijayanandan, K. Banujan, A. Induranga, B. T. Kumara, and K. Koswattage, "LeONet: A Hybrid Deep Learning Approach for High-Precision Code Clone Detection Using Abstract Syntax Tree Features," Big Data and Cognitive Computing, vol. 9, p. 187, 2025.
 
 ## Get in Touch
 
